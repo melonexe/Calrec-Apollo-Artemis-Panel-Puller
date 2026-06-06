@@ -23,7 +23,7 @@ By using, building, or adapting this tool, you agree to the following:
 - **Dimensional accuracy is your responsibility.** If building from provided
   CAD files or print files, verify dimensions and test fit before applying force.
   
-- **Affiliation
+- **Affiliation**
   This tool is not affiliated with, endorsed by, or supported by any manufacturer
   of the relevant chassis or panels. It is purely a personal project.
 
