@@ -15,18 +15,13 @@ By using, building, or adapting this tool, you agree to the following:
 
 - **No liability for injury.** The author(s) accept no responsibility for personal
   injury or harm of any kind arising from use of this tool.
-
-- **No guarantee of fit or compatibility.** Panel and chassis dimensions vary.
-  You are solely responsible for verifying that this tool is suitable for your
-  specific hardware before applying any force. Test carefully before use.
-
+  
 - **Follow your organisation's safety procedures.** Always ensure equipment is
   powered off and de-energised before working on panels or chassis. Comply with
   all applicable health and safety regulations in your country and workplace.
 
 - **Dimensional accuracy is your responsibility.** If building from provided
   CAD files or print files, verify dimensions and test fit before applying force.
-  The author(s) make no guarantee that files are free from errors.
 
 This tool is not affiliated with, endorsed by, or supported by any manufacturer
 of the relevant chassis or panels.
