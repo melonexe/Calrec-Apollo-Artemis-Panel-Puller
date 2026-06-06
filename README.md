@@ -45,7 +45,7 @@ of the relevant chassis or panels.
 ## About
 
 The Panel Puller came about from my frustration with removing Artemis and Apollo panels from consoles while working in support.
-This is the final version after many iterations which can be found scattered around the office in various colours.
+This is the final version after many iterations which can be found scattered around the office in various colours (See Above!)
 
 ---
 
