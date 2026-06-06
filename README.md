@@ -37,6 +37,9 @@ of the relevant chassis or panels.
   The Calrec name and logo are the property of their respective owners.
 
 ---
+<img width="1087" height="933" alt="image" src="https://github.com/user-attachments/assets/e6e7c6d5-13c7-4585-9389-d633f35111b9" />
+
+<img width="2994" height="1305" alt="IMG_5639" src="https://github.com/user-attachments/assets/98dc3ff1-3a79-48d5-8b5c-ba6dc01e390a" />
 
 ## About
 
