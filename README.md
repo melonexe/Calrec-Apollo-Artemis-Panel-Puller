@@ -40,8 +40,8 @@ By using, building, or adapting this tool, you agree to the following:
 
 ## About
 
-The Panel Puller came about from my frustration with removing Artemis and Apollo panels from consoles while working in support.
-This is the final version after many iterations which can be found scattered around the office in various colours (See Above!)
+The Panel Puller came about from my frustration with removing Artemis and Apollo panels from consoles.
+This is the final version after many iterations which can be found scattered around the UK in various colours (See Above!)
 
 ---
 
